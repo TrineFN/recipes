@@ -1,25 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Grid, Fab, Container } from "@material-ui/core";
+import MealPlan from './MealPlan';
+import RecipeList from './RecipeList';
+import ShoppingBasketIcon from '@material-ui/icons/ShoppingBasket';
+import { useState } from "react";
+import ShoppingList from "./ShoppingList";
 
 function App() {
+  const [open, setOpen] = useState(false);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Grid container>
+      <Grid item xs={12} sm={4}>
+        <Container style={{ textAlign: "center", padding: "16px" }}>
+          <Fab color="primary" onClick={() => setOpen(true)}><ShoppingBasketIcon /></Fab>
+        </Container>
+        <MealPlan />
+        <ShoppingList open={open} setOpen={setOpen} />
+      </Grid>
+      <Grid item xs={12} sm={8}>
+        <RecipeList />
+      </Grid>
+    </Grid>
   );
 }
 

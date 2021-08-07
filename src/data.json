@@ -1,0 +1,236 @@
+{
+    "recipes": [
+        {
+            "name": "Asparagus with pine seeds",
+            "persons": 4,
+            "img": "images/recipe1.jpeg",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "l",
+                    "name": "water"
+                },
+                {
+                    "amount": 1,
+                    "unit": "kg",
+                    "name": "beef"
+                }
+            ],
+            "instructions": [
+                "do this first",
+                "then do that",
+                "finally do this"
+            ]
+        },
+        {
+            "name": "Pasta with Salmon",
+            "persons": 4,
+            "img": "images/recipe2.jpeg",
+            "ingredients": [
+                {
+                    "amount": 2,
+                    "unit": "l",
+                    "name": "beer"
+                },
+                {
+                    "amount": 1,
+                    "unit": "kg",
+                    "name": "beef"
+                }
+            ],
+            "instructions": [
+                "do this first fas",
+                "then do that fafa"
+            ]
+        },
+        {
+            "name": "Königsberger Klopse",
+            "persons": 4,
+            "img": "images/recipe3.jpeg",
+            "ingredients": [
+                {
+                    "amount": 3,
+                    "unit": "kg",
+                    "name": "sausage"
+                }
+            ],
+            "instructions": [
+                "do this first",
+                "then do that",
+                "do this in between",
+                "finally do this"
+            ]
+        },
+        {
+            "name": "Butter Chicken (Instant Pot)",
+            "persons": 4,
+            "img": "images/Butter-Chicken-Wide.jpg",
+            "ingredients": [
+                {
+                    "amount": 1,
+                    "unit": "can",
+                    "name": "sliced tomatoes"
+                },
+                {
+                    "amount": 5,
+                    "unit": "cloves",
+                    "name": "garlic"
+                },
+                {
+                    "amount": 2,
+                    "unit": "teaspoon",
+                    "name": "minced ginger"
+                },
+                {
+                    "amount": 1,
+                    "unit": "teaspoon",
+                    "name": "turmeric"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "teaspoon",
+                    "name": "cayenne pepper"
+                },
+                {
+                    "amount": 1,
+                    "unit": "teaspoon",
+                    "name": "smoked paprika"
+                },
+                {
+                    "amount": 1,
+                    "unit": "teaspoon",
+                    "name": "kosher salt"
+                },
+                {
+                    "amount": 2,
+                    "unit": "teaspoon",
+                    "name": "garam masala"
+                },
+                {
+                    "amount": 1,
+                    "unit": "teaspoon",
+                    "name": "groun cumin"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "kg",
+                    "name": "boneless, skinless chicken thighs (or whatever works for you)"
+                },
+                {
+                    "amount": 115,
+                    "unit": "g",
+                    "name": "butter cut into cubes"
+                },
+                {
+                    "amount": 120,
+                    "unit": "ml",
+                    "name": "cream"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cub",
+                    "name": "fresh chilantro, chopped"
+                }
+            ],
+            "instructions": [
+                "Place all ingredients into an Instant Pot in the order listed, EXCEPT for the butter, cream and 1 teaspoon of the garam masala, mixing the sauce well before you place the chicken on top of the sauce. If it's frozen, push it into the sauce a bit so it defrosts better",
+                "Close the cooker and set for 10 mins on high, and let it release pressure naturally for 10 minutes. After that, release all remaining pressure. ",
+                "Open up the pot and remove the chicken carefully and set aside",
+                "Blend together all the ingredients, preferably using an immersion blender",
+                "Add the cut up butter, cream, cilantro, and garam masala and stir until well incorporated.",
+                "It's best to let the sauce cool just a little before adding the butter and the cream. Adding it into the boiling sauce will make your sauce very thin. If that happens, just put it in the fridge for a little and let it thicken up. It should be thick enough to coat the back of a spoon",
+                "Take out half the sauce and freeze for later or store in the fridge for 2-3 days",
+                "Add the chicken back in and heat through. Break it up into smaller pieces if you need but don't shred it.",
+                "Serve over rice, or zucchini noodles"
+            ]
+        },
+        {
+            "name": "Coconot Shrimp Soup - Tom Kha (Instant pot)",
+            "persons": 4,
+            "img": "images/tom_kha.png",
+            "ingredients": [
+                {
+                    "amount": 3,
+                    "unit": "cups",
+                    "name": "chicken broth"
+                },
+                {
+                    "amount": 230,
+                    "unit": "g",
+                    "name": "medium shrips, peeled (tails left on) and deveined"
+                },
+                {
+                    "amount": 1,
+                    "unit": "cup",
+                    "name": "canned straw mushrooms, undrained"
+                },
+                {
+                    "amount": 1,
+                    "unit": "can",
+                    "name": "full fat coconut milk"
+                },
+                {
+                    "amount": 7,
+                    "unit": "thin slices",
+                    "name": "fresh ginger"
+                },
+                {
+                    "amount": 3,
+                    "unit": "cups",
+                    "name": "chicken broth"
+                },
+                {
+                    "amount": 2,
+                    "unit": "whole",
+                    "name": "red thai chiles (optional)"
+                },
+                {
+                    "amount": 2,
+                    "unit": "tablespoons",
+                    "name": "fish sauce"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tablespoon",
+                    "name": "minced fresh lemongrass"
+                },
+                {
+                    "amount": 1,
+                    "unit": "tablespoon",
+                    "name": "honey"
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": 1,
+                    "unit": "",
+                    "name": "bio lime (use only grated zest)"
+                },
+                {
+                    "amount": 0.25,
+                    "unit": "cup",
+                    "name": "fresh lime juice (from 2-3) limes "
+                },
+                {
+                    "amount": 0.5,
+                    "unit": "cup",
+                    "name": "chopped fresh cilantro, for garnish"
+                },
+                {
+                    "amount": 1,
+                    "unit": "",
+                    "name": "lime (lime wedges, for serving)"
+                }
+            ],
+            "instructions": [
+                "In the Instant Pot, combine the broth, shrimp, mushrooms and their liquid, half of the coconut milk, the ginger, chiles (if using), 1 tablespoon of the fish sauce, the lemongrass, honey, and salt.",
+                "Secure the lid on the pot. Close the pressue-release valve. Select MANUAL and set the pot at LOW pressure for 1 minute. At the end of the cooking time, quick release the presure.",
+                "Stir in the remaining 1 tablespoon fish sauce, remaining coconut milk, the lime zest, and lime juice.",
+                "Divide the soup among four serving bowls. Garnish with cilantro and serve with lime wedges alongside for squeezing."
+            ]
+        }
+    ]
+}
